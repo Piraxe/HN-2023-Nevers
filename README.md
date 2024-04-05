@@ -45,7 +45,7 @@ Lien vers le manuscrit : https://gallica.bnf.fr/ark:/12148/btv1b10532591q
 | --------- | --------- | --------- | --------- | --------- |
 | 5, 6, 7 | Pierre-Alexandre Nistor | | | |
 | 8, 9, 10, 11 | Emilie Guidi | | | |
-| 12, 13, 14| Alexandre Lionnet-Rollin | | | |
+| 12, 13, 14| Alexandre Lionnet-Rollin | en cours...| | |
 | | Eglantine Gaglione | | | |
 
 # Changelog : 
