@@ -42,7 +42,7 @@
 ### Par suspension
 
 - Pour les « r » suscrits, on ne fait pas de distinction de forme, ils sont tous notés « ͬ».
-- Pour les "s" suscrits, on ne fait pas de distinction de forme, ils sont tous notés "^s".
+- Pour les "s" suscrits, on ne fait pas de distinction de forme, ils sont tous notés " ̾".
 
 ### Les signes particuliers 
 
