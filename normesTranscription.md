@@ -1,12 +1,18 @@
 # Normes de transcription
 
-## Les lettres
+## Le choix d'une transcription graphématique
 
 - Dans les transcriptions destinées à servir de données d'entraînement pour la Reconnaissance de l'Écriture Manuscrite (HTR), il est nécessaire de préserver la manière dont le texte original est écrit dans les documents, sans apporter aucune modification éditoriale. Les signes différents seront représentés par des caractères différents, mais les variantes de forme d’une même lettre seront réduites à une représentation standardisée.
 
 ### Les variantes d'une même lettre
 
 - Variations de forme de la lettre "s": Les "s" longs et "s" ronds sont transcrits par "s".
+
+<figure>
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Slongf4.JPEG" alt="Image du s long">
+  <figcaption>"de listoire".</figcaption>
+</figure>
+
 - Variations de forme de la lettre "r": Les lettres « r » et « ꝛ » (r rotunda) sont transcrits par  « r ».
 
 ### Les lettres jumelles ou assimilées
