@@ -43,9 +43,9 @@ Lien vers le manuscrit : https://gallica.bnf.fr/ark:/12148/btv1b10532591q
 
 | Pages |Assignée à | Statut de la transcription | Vérification assignée à | Statut de la vérification |
 | --------- | --------- | --------- | --------- | --------- |
-| 5, 6, 7 | Pierre-Alexandre Nistor | | | |
-| 8, 9, 10, 11 | Emilie Guidi |en cours... | | |
-| 12, 13, 14, 15 | Alexandre Lionnet-Rollin | Fini !  | | |
+| 5, 6, 7 | Pierre-Alexandre Nistor | Fini !| | |
+| 8, 9, 10, 11 | Emilie Guidi |en cours... | Pierre-Alexandre | |
+| 12, 13, 14, 15 | Alexandre Lionnet-Rollin | Fini !  | Pierre-Alexandre | |
 | 16, 17, 18 | Eglantine Gaglione | en cours... | | |
 
 # Changelog : 
