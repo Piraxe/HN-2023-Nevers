@@ -217,6 +217,30 @@
             "keyboard_code": null,
             "column": 4,
             "row": 4
+        },
+
+        {
+            "character": "\u00B7",
+            "legend" : "median point",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 4
+        },
+
+        {
+            "character": "\u00B7",
+            "legend" : "median point",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 4
+        },
+
+        {
+            "character": "\u204a",
+            "legend" : "et tironien",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 5
         }
 
        
