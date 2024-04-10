@@ -19,6 +19,7 @@
 - Toutes les lettres placées après un pied de mouche 
 - Toutes les lettres placées après une pause forte 
 - Toutes les lettres en début de mot sémantique
+- Les prénoms et noms sont transcrits tels qu'ils sont dans le manuscrit : s'ils ne prennent pas de majuscules, on ne les rajoute pas.
 
 ### Les signes diacritiques
  
@@ -36,7 +37,7 @@
 ### Par contraction
 
 - Les macrons ou tildes horizontaux : ils seront rendus par un tilde horizontal suscrit : « ̃».
-- Le "p barré" : signe abréviatif de la préposition "par", il sera transcrit par "p".
+- Le "p barré" : signe abréviatif de la préposition "par", il sera transcrit par "ꝑ".
 
 ### Par suspension
 
@@ -62,10 +63,10 @@
 - Le point médian, marqueur de subdivisions mineures au sein d'une phrase sera transcrit par un "·".
 
 
-
 ## La mise en page
 
 - Les paragraphes sont marqués par des pieds de mouche enluminés et sont transcrits par le caractère ¶.
+- Le tiret de renvoi : ce dernier qui apparait en fin de ligne marque souvent une liaison forte avec le mot de la ligne d'après. On le transcrit par "-".  
 
 
 
