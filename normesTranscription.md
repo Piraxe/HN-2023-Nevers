@@ -47,7 +47,7 @@
 
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Vlettreinitialf4.jpeg" alt="Image du u initial">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Vlettreinitialf4.JPEG" alt="Image du u initial">
   <figcaption>"uous(f. 4)".</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@
 
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/IJf10.jpg" alt="Image du i et j">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/blob/test-ins%C3%A9rer-images/exemple_normes_transcription/IJf10.jpg" alt="Image du i et j">
   <figcaption>"de diion (f.10)".</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@
 <a name="majuscules-pied-mouche"></a>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Slongf4.JPEG" alt="Majuscule après pied de mouche">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/piedemouchef6.jpeg" alt="Majuscule après pied de mouche">
   <figcaption>"Plus".</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@
 
 <figure>
   <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/pausefortef6.jpeg" alt="pause forte">
-  <figcaption>"les alemaignes. Quant le roi".</figcaption>
+  <figcaption>"les alemaignes. Quant le roy".</figcaption>
 </figure>
 
 
@@ -90,7 +90,7 @@
 - Les noms propres sont transcrits tels qu'ils sont dans le manuscrit : s'ils ne prennent pas de majuscules, on ne les rajoute pas.
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/IJf10.jpg" alt="Image du i et j">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/blob/test-ins%C3%A9rer-images/exemple_normes_transcription/IJf10.jpg" alt="Image du i et j">
   <figcaption>Ici "Dijon" est un nom de ville, mais dans le manuscrit il apparait avec une minuscule, on le transcrira donc ainsi : "de diion (f.10)".</figcaption>
 </figure>
 
