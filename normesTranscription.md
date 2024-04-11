@@ -24,7 +24,7 @@
   <a name="variantes-r"></a>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Rrontundaf16.JPEG" alt="Image du r rotunda">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Rrontundaf16.jpeg" alt="Image du r rotunda">
   <figcaption>"emprise (f. 16)".</figcaption>
 </figure>
 
@@ -56,6 +56,13 @@
 <a name="lettres-i-j"></a>
 
 
+<figure>
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/IJf10.JPEG" alt="Image du u initial">
+  <figcaption>"de diion (f.10)".</figcaption>
+</figure>
+
+
+
 
 
 ### Les majuscules 
@@ -80,7 +87,13 @@
 - Toutes les lettres en début de mot sémantique
 <a name="majuscules-debut-mot"></a>
 
-- Les prénoms et noms sont transcrits tels qu'ils sont dans le manuscrit : s'ils ne prennent pas de majuscules, on ne les rajoute pas.
+- Les noms propres sont transcrits tels qu'ils sont dans le manuscrit : s'ils ne prennent pas de majuscules, on ne les rajoute pas.
+
+<figure>
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/IJf10.JPEG" alt="Image du u initial">
+  <figcaption>Ici "Dijon" est un nom de ville, mais dans le manuscrit il apparait avec une minuscule, on le transcrira donc ainsi : "de diion (f.10)".</figcaption>
+</figure>
+
 
 ### Les signes diacritiques
  
@@ -93,6 +106,11 @@
 
 - Lorsque les chiffres sont notés en toutes lettres, on transcrira la suite de mots tels qu'ils apparaissent dans le manuscrit.
   <a name="chiffres-toutes-lettres"></a>
+
+  <figure>
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/chiffreslettresf9.JPEG" alt="Chiffres écrits de toutes lettres">
+  <figcaption>"dix sept ans (f.9)".</figcaption>
+</figure>
 
 
 
@@ -140,6 +158,11 @@
   <figcaption>"et lui [...](f.14)".</figcaption>
 </figure>
 
+<figure>
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/ettironienf11.JPEG" alt="Image du et tironien">
+  <figcaption>"la plus belle ⁊ (f.11)".</figcaption>
+</figure>
+
 
 
 ## La séparation des mots
@@ -164,7 +187,7 @@
 
 <figure>
   <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/pointf14.JPEG" alt="point">
-  <figcaption>"seignorie de nevers. Quant le ieusne".</figcaption>
+  <figcaption>"seignorie de nevers. Quant le ieusne (f.14)".</figcaption>
 </figure>
 
 - Le point médian, marqueur de subdivisions mineures au sein d'une phrase sera transcrit par un "·".
@@ -178,6 +201,10 @@
 
 - Le tiret de renvoi : ce dernier qui apparait en fin de ligne marque souvent une liaison forte avec le mot de la ligne d'après. On le transcrit par "-".  
 
+<figure>
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/tiretrenvoif16.JPEG" alt="tiret de renvoi">
+  <figcaption>"de que -"</figcaption>
+</figure>
 
 
 
