@@ -108,7 +108,7 @@
   <a name="chiffres-toutes-lettres"></a>
 
   <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/chiffreslettresf9.jpg" alt="Chiffres écrits de toutes lettres">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/blob/test-ins%C3%A9rer-images/exemple_normes_transcription/chiffreslettresf9.jpg" alt="Chiffres écrits de toutes lettres">
   <figcaption>"dix sept ans (f.9)".</figcaption>
 </figure>
 
@@ -159,7 +159,7 @@
 </figure>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/ettironienf11.jpg" alt="Image du et tironien">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/blob/test-ins%C3%A9rer-images/exemple_normes_transcription/ettironienf11.jpg" alt="Image du et tironien">
   <figcaption>"la plus belle ⁊ (f.11)".</figcaption>
 </figure>
 
@@ -202,7 +202,7 @@
 - Le tiret de renvoi : ce dernier qui apparait en fin de ligne marque souvent une liaison forte avec le mot de la ligne d'après. On le transcrit par "-".  
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/tiretrenvoif16.jpg" alt="tiret de renvoi">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/blob/test-ins%C3%A9rer-images/exemple_normes_transcription/tiretrenvoif16.jpg" alt="tiret de renvoi">
   <figcaption>"de que -"</figcaption>
 </figure>
 
