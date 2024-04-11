@@ -47,7 +47,7 @@
 
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Vlettreinitialf4.JPEG" alt="Image du u initial">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Vlettreinitialf4.jpeg" alt="Image du u initial">
   <figcaption>"uous(f. 4)".</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@
 
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/IJf10.JPEG" alt="Image du u initial">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/IJf10.jpg" alt="Image du i et j">
   <figcaption>"de diion (f.10)".</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@
   <a name="majuscules-pause-forte"></a>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/pausefortef16.JPEG" alt="pause forte">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/pausefortef6.jpeg" alt="pause forte">
   <figcaption>"les alemaignes. Quant le roi".</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@
 - Les noms propres sont transcrits tels qu'ils sont dans le manuscrit : s'ils ne prennent pas de majuscules, on ne les rajoute pas.
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/IJf10.JPEG" alt="Image du u initial">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/IJf10.jpg" alt="Image du i et j">
   <figcaption>Ici "Dijon" est un nom de ville, mais dans le manuscrit il apparait avec une minuscule, on le transcrira donc ainsi : "de diion (f.10)".</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@
   <a name="chiffres-toutes-lettres"></a>
 
   <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/chiffreslettresf9.JPEG" alt="Chiffres écrits de toutes lettres">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/chiffreslettresf9.jpg" alt="Chiffres écrits de toutes lettres">
   <figcaption>"dix sept ans (f.9)".</figcaption>
 </figure>
 
@@ -133,7 +133,7 @@
 <a name="p-barre"></a>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/pbarref14.JPEG" alt="Image du p barre">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/Pbarref14.jpeg" alt="Image du p barre">
   <figcaption>"ꝑrler" (f.14)".</figcaption>
 </figure>
 
@@ -144,7 +144,7 @@
 <a name="r-suscrits"></a>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/RetSsuscritsf14.JPEG" alt="R et S suscrits">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/RetSsuscritsf14.jpeg" alt="R et S suscrits">
   <figcaption>"et lui firent homaige pluse ͬ ̾ (f.14)".</figcaption>
 </figure>
 
@@ -154,12 +154,12 @@
 <a name="et-tironien"></a>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/RetSsuscritsf14.JPEG" alt="et conjonction de coordination">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/RetSsuscritsf14.jpeg" alt="et conjonction de coordination">
   <figcaption>"et lui [...](f.14)".</figcaption>
 </figure>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/ettironienf11.JPEG" alt="Image du et tironien">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/ettironienf11.jpg" alt="Image du et tironien">
   <figcaption>"la plus belle ⁊ (f.11)".</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@
 <a name="hyphenisation"></a>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/hyphénisationf16.JPEG" alt="hyphénisation">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/hyphénisationf16.jpeg" alt="hyphénisation">
   <figcaption>"pour girart de nevers/apres que les (f. 16)".</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@
   <a name="ponctuation-point"></a>
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/pointf14.JPEG" alt="point">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/pointf14.jpeg" alt="point">
   <figcaption>"seignorie de nevers. Quant le ieusne (f.14)".</figcaption>
 </figure>
 
@@ -202,7 +202,7 @@
 - Le tiret de renvoi : ce dernier qui apparait en fin de ligne marque souvent une liaison forte avec le mot de la ligne d'après. On le transcrit par "-".  
 
 <figure>
-  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/tiretrenvoif16.JPEG" alt="tiret de renvoi">
+  <img src="https://github.com/Piraxe/HN-2023-Nevers/raw/transcription-normes/exemple_normes_transcription/tiretrenvoif16.jpg" alt="tiret de renvoi">
   <figcaption>"de que -"</figcaption>
 </figure>
 
