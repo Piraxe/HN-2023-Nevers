@@ -47,3 +47,13 @@ Lien vers le manuscrit : https://gallica.bnf.fr/ark:/12148/btv1b10532591q
 | 8, 9, 10, 11 | Emilie Guidi |Fini !| Pierre-Alexandre | |
 | 12, 13, 14, 15 | Alexandre Lionnet-Rollin | Fini !  | Pierre-Alexandre/Emilie | Vérifiée|
 | 16, 17, 18 | Eglantine Gaglione | Fini ! | Alexandre/Emilie | Vérifiée |
+
+## Organisation du dépôt
+
+- [Clavier](Clavier) : fichier.json du clavier virtuel employé pour la transcription.
+- [Normes_transcription](Normes_transcription) : fichiers contenant les normes de transcription établies pour le projet.
+- [Organisation](Organisation) : répertoire contenant un fichier avec les tâches et les membres du projet à qui elles ont été assignées.
+- [Projet](Projet) : ce répertoire comporte un rapport sur le projet.
+- [Transcription](Transcription) : ce répertoire est composé de deux fichiers. Le sous-répertoire Alto comporte les transcriptions en format xml et pgn de chaque folio. Le répertoire Texte comporte les transcriptions en format txt de chaque folio.
+- [Ìmages_transcription](Ìmages_transcription) : ce répertoire contient les images en format png des folios du manuscrit.
+
