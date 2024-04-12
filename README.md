@@ -44,9 +44,9 @@ Lien vers le manuscrit : https://gallica.bnf.fr/ark:/12148/btv1b10532591q
 | Pages |Assignée à | Statut de la transcription | Vérification assignée à | Statut de la vérification |
 | --------- | --------- | --------- | --------- | --------- |
 | 5, 6, 7 | Pierre-Alexandre Nistor | Fini !| Alex| |
-| 8, 9, 10, 11 | Emilie Guidi |Fini!| Pierre-Alexandre | |
+| 8, 9, 10, 11 | Emilie Guidi |Fini !| Pierre-Alexandre | |
 | 12, 13, 14, 15 | Alexandre Lionnet-Rollin | Fini !  | Pierre-Alexandre/Emilie | Vérifiée|
-| 16, 17, 18 | Eglantine Gaglione | en cours... | | |
+| 16, 17, 18 | Eglantine Gaglione | Fini ! | Alexandre/Emilie | Vérifiée |
 
 # Changelog : 
 10/03/2024 - PA Nistor : Création du repo
